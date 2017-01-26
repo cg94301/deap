@@ -1,0 +1,5 @@
+
+
+<class '__main__.Fitness'>
+
+type TS:  <type 'type'>
